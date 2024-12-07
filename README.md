@@ -68,8 +68,8 @@ Feel free to connect with me!
 
 ## Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo1&theme=react)](https://github.com/iyed111/NewRepo1)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo2&theme=react)](https://github.com/iyed111/NewRepo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo1&theme=react)](https://github.com/iyed111/Medical-practice-management-system.)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo2&theme=react)](https://github.com/iyed111/Clothing-Brand-E-Commerce-Website)
 
 
 ---
