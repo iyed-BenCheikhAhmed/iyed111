@@ -68,8 +68,9 @@ Feel free to connect with me!
 
 ## Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/iyed111/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/iyed111/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo1&theme=react)](https://github.com/iyed111/NewRepo1)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyed111&repo=NewRepo2&theme=react)](https://github.com/iyed111/NewRepo2)
+
 
 ---
 
