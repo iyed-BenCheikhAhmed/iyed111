@@ -25,12 +25,12 @@ You can reach me at:
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)  
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F)](#)  
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
-[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  
+[![SQL Badge](https://img.shields.io/badge/-SQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)](#)  
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
 ## Currently Learning
 
-- **SQL**
-- **Data Visualization (Power BI)**
 - **Node.js**
 
 ## Let's Connect!
