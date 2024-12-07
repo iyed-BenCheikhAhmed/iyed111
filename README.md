@@ -33,6 +33,7 @@ You can reach me at:
 - **Power Bi**
 - **Node.js**
 
+
 ## Let's Connect!
 
 - 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
@@ -55,7 +56,7 @@ Feel free to connect with me!
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
 
