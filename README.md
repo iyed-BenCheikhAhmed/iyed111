@@ -1,6 +1,6 @@
 # Hey, I'm Iyed 👋
 
-Welcome to my GitHub profile! I'm a **20-year-old Business Intelligence student** with a passion for coding, data analysis,web development and everything related to business intelligence and programming.
+Welcome to my GitHub profile! I'm a **20-year-old Business Intelligence student** with a passion for coding, data analysis, web development, and everything related to business intelligence and programming.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **20-year-old Business Intelligence student*
 ## About Me
 
 I'm Iyed, a Business Intelligence student at ISG in Tunisia 💻, and I'm 20 years old.  
-I am completely passionate about **Data Analysis**, **Web Development**, and programming languages.
+I am completely passionate about **Data Analysis**, **Web Development**, **and programming languages**.
 
 You can reach me at:
 - 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
@@ -27,11 +27,16 @@ You can reach me at:
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
+## Currently Learning
+
+- **SQL**
+- **Data Visualization (Power BI)**
+- **Node.js**
+
 ## Let's Connect!
 
 - 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
-
 
 Feel free to connect with me!
 
