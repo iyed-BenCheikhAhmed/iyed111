@@ -3,9 +3,7 @@
 Welcome to my GitHub profile! I'm a **20-year-old Business Intelligence student** with a passion for coding, data analysis, web development, and everything related to business intelligence and programming.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+iyed..&hearts;++;Self-taught+Web+Developer,;Data+Analyst,;programming,;business+intelligence+Student,;Love+to+learn+new+stuffs..<3">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=Hey!+it's+iyed+...%F0%9F%A9%B5;Self-taught+Web+Developer;Data+Analyst;business+intelligence+Student;programming+languages;Love%2Bto+learn+new+stuffs+..%3C3" alt="Typing SVG" /></a>
 </p>
 
 ## About Me
