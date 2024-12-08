@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **20-year-old Business Intelligence student*
 
 ## About Me
 
-I'm Iyed, a Business Intelligence student at ISG in Tunisia 💻, and I'm 20 years old.  
+I'm Iyed, a Business Intelligence student at ISGB university of Carthage in Tunisia 💻, and I'm 20 years old.  
 I am completely passionate about **Data Analysis**, **Web Development**, **and programming languages**.
 
 You can reach me at:
