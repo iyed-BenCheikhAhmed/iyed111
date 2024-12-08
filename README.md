@@ -55,9 +55,6 @@ Feel free to connect with me!
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iyed111&theme=react)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyed111&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed111&show_icons=true&locale=en&layout=compact&langs_count=5&theme=algolia)
-
 ### ✍️ Random Dev Quote
 
 > "The only way to do great work is to love what you do." – Steve Jobs
