@@ -50,7 +50,6 @@ Feel free to connect with me!
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iyed111)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyed111&&theme=algolia" alt="iyed111" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iyed111&theme=react)
 
