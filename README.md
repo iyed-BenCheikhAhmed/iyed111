@@ -45,7 +45,7 @@ Feel free to connect with me!
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iyed111&show_icons=true&theme=radical)  
+  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed111&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 
 
