@@ -48,10 +48,11 @@ Feel free to connect with me!
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iyed111&show_icons=true&theme=radical)  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed111&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iyed111)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyed111&&theme=algolia" alt="iyed111" /></p>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=iyed111&theme=react)
 
 
 ### ✍️ Random Dev Quote
