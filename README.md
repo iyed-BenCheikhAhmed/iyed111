@@ -15,7 +15,7 @@ I am completely passionate about **Data Analysis**, **Web Development**, **and p
 
 You can reach me at:
 - 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
 
 ## Skills
 
@@ -37,7 +37,7 @@ You can reach me at:
 ## Let's Connect!
 
 - 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
 
 Feel free to connect with me!
 
