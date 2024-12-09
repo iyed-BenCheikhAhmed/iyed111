@@ -28,6 +28,7 @@ You can reach me at:
 
 
 ## Currently Learning
+- **Big Dta et Cloud**
 - **Power Bi**
 - **Node.js**
 
