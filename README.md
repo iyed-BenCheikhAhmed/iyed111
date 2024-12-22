@@ -29,7 +29,8 @@ You can reach me at:
 
 ## Currently Learning
 - **Big Data et Cloud**
-- **Power Bi**
+- **Artificial Intelligence**
+- **Machine Learning**
 - **Node.js**
 
 
