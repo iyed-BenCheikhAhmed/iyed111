@@ -31,7 +31,7 @@ You can reach me at:
 - **Big Data et Cloud**
 - **Artificial Intelligence**
 - **Machine Learning**
-- **Node.js**
+
 
 
 ## Let's Connect!
