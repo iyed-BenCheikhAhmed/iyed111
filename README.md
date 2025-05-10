@@ -17,7 +17,7 @@ You can reach me at:
 
 ## Skills
 
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)  
+  ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)  
 [![Python Badge](https://img.shields.io/badge/-Python-3572A5?style=for-the-badge&logo=python&logoColor=white)](#)  
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)  
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)  
@@ -25,6 +25,9 @@ You can reach me at:
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  
 [![SQL Badge](https://img.shields.io/badge/-SQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)](#)  
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)  
+[![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)  
+[![PL/SQL Badge](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 
 ## Currently Learning
