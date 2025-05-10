@@ -28,6 +28,7 @@ You can reach me at:
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)  
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)  
 [![PL/SQL Badge](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Oracle DB Badge](https://img.shields.io/badge/-Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 
 ## Currently Learning
