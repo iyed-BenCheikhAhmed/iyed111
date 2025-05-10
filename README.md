@@ -12,7 +12,7 @@ I'm Iyed, a Business Intelligence student at (ISGB university of Carthage) in Tu
 I am completely passionate about **Data Analysis**, **Web Development**, **and programming languages**.
 
 You can reach me at:
-- 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
+- 📧 **Email**: [iyedbencheikhahmed@gmail.com](mailto:iyedbencheikhahmed@gmail.com)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
 
 ## Skills
@@ -45,7 +45,7 @@ You can reach me at:
 
 ## Let's Connect!
 
-- 📧 **Email**: [iyedi560@gmail.com](mailto:iyedi560@gmail.com)
+- 📧 **Email**: [iyedbencheikhahmed@gmail.com](mailto:iyedbencheikhahmed@gmail.com)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iyed-ahmed-lm1-80ab80290)
 
 Feel free to connect with me!
