@@ -28,6 +28,7 @@ You can reach me at:
 ### Data & Databases  
 ![SSIS Badge](https://img.shields.io/badge/-SSIS-555555?style=for-the-badge&logo=windows&logoColor=white)
 ![SSAS Badge](https://img.shields.io/badge/-SSAS-000000?style=for-the-badge&logo=windows&logoColor=white)
+
 [![SQL Badge](https://img.shields.io/badge/-SQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)](#)  
 [![PL/SQL Badge](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)  
 [![Oracle DB Badge](https://img.shields.io/badge/-Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)  
